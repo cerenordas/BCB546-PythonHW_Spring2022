@@ -8,9 +8,9 @@
  
 - sequence_translate.py consists of the code provided by Dr. X with some functions, and instructions on how to complete the assignment. 
 
-- penguins_cytb.fasta file consists ofvthe nucleotide sequences for each of the penguin species.
+- penguins_cytb.fasta file consists of the nucleotide sequences for each of the penguin species.
 
-- penguins_mass.csv consists of a .csv file with a column showing the names of the species and a column showing the mass of the species.
+- penguins_mass.csv consists of the .csv file with a column showing the names of the species and a column showing the mass of the species.
 
 - penguins_mass_cytb.csv consists of the new csv file of the new data frame I created as a part of the assignment.
 
