@@ -2,7 +2,7 @@
 
 ### Due: 6 May 2022
 
-- This repository has all the files needed for the Python Assignment and the README.md file gives information about all the files one by one.
+- In this repository with files needed to complete the Python Assignment, the README.md file will give information about all these files one by one.
 
 - BCB546-PythonHW_Spring2022-Ceren_Ordas.ipynb file is the markdown file showing code for each step of the assignment (1-11). Every step, line by line was documented very clearly to the best of my abilities, so that I could keep track of my progress (I might've overdone it).
  
